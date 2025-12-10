@@ -2,7 +2,7 @@
 
 ## Contexte et objectifs
 
-Data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises (>150 salariés), j'ai été missionnée par Laura, la directrice des ressources humaines et par Vincent, Contrôleur de Gestion Sociale, pour le calcul de l'index de l’égalité femmes-hommes.
+Data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises (>150 salariés), j'ai été missionné par Laura, la directrice des ressources humaines et par Vincent, Contrôleur de Gestion Sociale, pour le calcul de l'index de l’égalité femmes-hommes.
 
 Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes.
 

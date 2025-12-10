@@ -2,6 +2,12 @@
 
 ## Contexte et objectifs
 
+Data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises (>150 salariés), j'ai été missionnée par Laura, la directrice des ressources humaines et par Vincent, Contrôleur de Gestion Sociale, pour le calcul de l'index de l’égalité femmes-hommes.
+
+Chaque année avant le 1er mars, les entreprises d’au moins 50 salariés doivent calculer et publier sur leur site Internet leur index de l’égalité femmes-hommes.
+
+Le cabinet est en phase de croissance importante, et la direction souhaite adopter une politique volontariste de développement de l’égalité femmes-hommes.
+
 Ce projet vise à collecter, nettoyer et analyser les données RH afin de calculer les indicateurs d’égalité professionnelle tout en respectant les principes du RGPD.
 
 ## Soft Skills

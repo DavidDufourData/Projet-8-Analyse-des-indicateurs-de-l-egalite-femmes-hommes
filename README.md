@@ -23,8 +23,8 @@ Ce projet vise à collecter, nettoyer et analyser les données RH afin de calcul
 - Vérification de la cohérence et de la fiabilité des données  
 
 ## Outils utilisés
-- Python ou Excel  
-- Jupyter Notebook  
+- Excel
+- Knime
 
 ##
 > Attention ! Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l’organisme OpenClassrooms.
